@@ -1,6 +1,7 @@
 # expense_management_from_files
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to process bank expense files ( Credit card line items for banks )  well, that part is up to you.
+Currently only Garanti BBVA is supported, I want to build this as a standart library to share with public so people can also build for other banks as well
 
 ## Usage
 
